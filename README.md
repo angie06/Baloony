@@ -1,2 +1,2 @@
-# Baloony
-Game with baloons
+# Aniword
+Guessing game 
